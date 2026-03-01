@@ -1,16 +1,21 @@
-## Hi there 👋
+# hi. yes, i was metaphorically dropped. frequently.
 
-<!--
-**droppedasbaby/droppedasbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineer at [affirm](https://www.affirm.com). i build distributed systems professionally and run them at home for fun.
 
-Here are some ideas to get you started:
+## the homelab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3 mini PCs running an 80+ pod [kubernetes](https://kubernetes.io) cluster that processes 6TB/month. 14 minutes to provision, 2 minutes to destroy. started with 1 dusty PC and [ubuntu](https://ubuntu.com). it escalated.
+
+- [proxmox](https://www.proxmox.com) + [talos linux](https://www.talos.dev) + [terraform](https://www.terraform.io) (migrating to [pulumi](https://www.pulumi.com))
+- sharded [mongodb](https://www.mongodb.com), [longhorn](https://longhorn.io) distributed storage
+- gitops with [flux](https://fluxcd.io), [kyverno](https://kyverno.io) policy engine
+- web scraping at scale with self-resurrecting vpn pods
+
+## what i work with
+
+go · python · typescript · terraform · pulumi · kubernetes · docker
+
+## elsewhere
+
+- blog: [droppedasbaby.com](https://www.droppedasbaby.com)
+- instagram: [@droppedasbaby](https://www.instagram.com/droppedasbaby)
