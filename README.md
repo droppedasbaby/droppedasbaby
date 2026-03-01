@@ -1,4 +1,4 @@
-# hi. yes, i was metaphorically dropped. frequently.
+hi. yes, i was metaphorically dropped. frequently.
 
 software engineer at [affirm](https://www.affirm.com). i build distributed systems professionally and run them at home for fun.
 
