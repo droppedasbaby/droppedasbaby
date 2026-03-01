@@ -16,7 +16,12 @@ software engineer at [affirm](https://www.affirm.com). previously [spare labs](h
 
 ## side projects
 
-**homelab** — 3 mini PCs running an 80+ pod [kubernetes](https://kubernetes.io) cluster that processes 6TB/month. 14 minutes to provision, 2 minutes to destroy. [proxmox](https://www.proxmox.com) + [talos linux](https://www.talos.dev) + [terraform](https://www.terraform.io), sharded [mongodb](https://www.mongodb.com), [longhorn](https://longhorn.io) storage, gitops with [flux](https://fluxcd.io), and a [prometheus](https://prometheus.io)/[grafana](https://grafana.com)/[loki](https://grafana.com/oss/loki/) observability stack.
+**homelab** — 3 mini PCs running an 80+ pod [kubernetes](https://kubernetes.io) cluster that processes 6TB/month. 14 minutes to provision, 2 minutes to destroy.
+- [proxmox](https://www.proxmox.com) + [talos linux](https://www.talos.dev) + [terraform](https://www.terraform.io)
+- sharded [mongodb](https://www.mongodb.com), [longhorn](https://longhorn.io) distributed storage
+- gitops with [flux](https://fluxcd.io), [kyverno](https://kyverno.io) policy engine
+- [prometheus](https://prometheus.io) / [grafana](https://grafana.com) / [loki](https://grafana.com/oss/loki/) observability stack
+- migrating from [terraform](https://www.terraform.io) to [pulumi](https://www.pulumi.com) and from grpc to event-driven architecture
 
 ## elsewhere
 
