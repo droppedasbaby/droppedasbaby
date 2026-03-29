@@ -20,7 +20,7 @@ software engineer at [affirm](https://www.affirm.com). previously [spare labs](h
 - gitops with [flux](https://fluxcd.io), [kyverno](https://kyverno.io) policy engine
 - [prometheus](https://prometheus.io) / [grafana](https://grafana.com) / [loki](https://grafana.com/oss/loki/) observability stack
 - migrating from [terraform](https://www.terraform.io) to [pulumi](https://www.pulumi.com) and from grpc to event-driven architecture
-- more [claude code/llm](https://claude.ai/) than i can count
+- more [claude code/llm](https://claude.ai/) projects than i can count
 
 ## elsewhere
 
